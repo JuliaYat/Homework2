@@ -89,6 +89,6 @@ public class Main {
         System.out.println("Всего работников в компании " + workers + " человек");
         var moreEmploees = workers + 94;
         var workHourWithMoreEmployees = hourWork / moreEmploees;
-        System.out.println("Если в компании работает " + moreEmploees + " то всего " + workHourWithMoreEmployees + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + moreEmploees + ", то всего " + workHourWithMoreEmployees + " часов работы может быть поделено между сотрудниками");
     }
 }
